@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misterbachan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java script
 - 📫 You can reach me by my email address dhakalbachan@gmail.com
 
 <!---
